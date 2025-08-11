@@ -19,7 +19,7 @@ El conjunto de datos corresponde a **establecimientos educativos de Guatemala** 
 ### 2. **Unión de datos**
 
 * Cada archivo por departamento se convirtió a `.csv`.
-* Los `.csv` resultantes fueron unidos en un único archivo `establecimientos_unidos.csv`, asegurando que los encabezados fueran consistentes y eliminando filas innecesarias.
+* Los `.csv` resultantes fueron limpuados y unidos en un único archivo asegurando que los encabezados fueran consistentes y eliminando filas innecesarias.
 
 ### 3. **Codebook**
 
@@ -45,7 +45,7 @@ El conjunto de datos corresponde a **establecimientos educativos de Guatemala** 
 
 ### 5. **Exportación final**
 
-* El resultado del proceso se exportó como `establecimientos_limpios.csv`, listo para análisis posteriores.
+* El resultado del proceso se exportó como `establecimientos_validado_final.csv`, listo para análisis posteriores.
 
 ---
 
@@ -56,10 +56,11 @@ Proyecto1-DataScience-LimpiezaDeDatos
  ├── datos_xls/                # Archivos originales descargados del MINEDUC
  ├── datos_csv/                # Archivos CSV intermedios por departamento
  ├── scripts/                  # Scripts Python utilizados para conversión y unión
+ ├── salidas_limpias/                  # Documentos csv limpios para cada departamento
  ├── notebook_limpieza.ipynb   # Notebook con el proceso de limpieza paso a paso
  ├── codebook.pdf              # Libro de códigos de variables
- ├── establecimientos_unidos.csv  # Datos crudos unidos
- ├── establecimientos_limpios.csv # Datos finales limpios
+ ├── Planteamiento del proyecto.pdf              # Avances y planteamiento del proyecto
+ ├── establecimientos_validado_final.csv # Datos finales limpios
  └── README.md                 # Descripción del proyecto
 ```
 
