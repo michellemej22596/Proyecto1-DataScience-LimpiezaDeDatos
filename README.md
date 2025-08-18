@@ -8,6 +8,13 @@ El conjunto de datos corresponde a **establecimientos educativos de Guatemala** 
 
 ---
 
+Presentación del proyecto: https://www.canva.com/design/DAGwYqacNk4/NLjAF2se4XUKKvhFpcdegA/view?utm_content=DAGwYqacNk4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd9e2433655
+
+
+Enlace al Codebook: https://www.canva.com/design/DAGs0DgkSHg/DrgY05IKBjeONdWIpMUkiA/view?utm_content=DAGs0DgkSHg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2804e7fde
+
+---
+
 ## 🗂 Proceso del Proyecto
 
 ### 1. **Obtención de datos**
